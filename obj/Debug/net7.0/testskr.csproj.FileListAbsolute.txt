@@ -1,0 +1,17 @@
+C:\Users\Fotters\source\repos\testskr\obj\Debug\net7.0\testskr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fotters\source\repos\testskr\obj\Debug\net7.0\testskr.AssemblyInfoInputs.cache
+C:\Users\Fotters\source\repos\testskr\obj\Debug\net7.0\testskr.AssemblyInfo.cs
+C:\Users\Fotters\source\repos\testskr\obj\Debug\net7.0\testskr.csproj.CoreCompileInputs.cache
+C:\Users\Fotters\source\repos\testskr\bin\Debug\net7.0\testskr.exe
+C:\Users\Fotters\source\repos\testskr\bin\Debug\net7.0\testskr.deps.json
+C:\Users\Fotters\source\repos\testskr\bin\Debug\net7.0\testskr.runtimeconfig.json
+C:\Users\Fotters\source\repos\testskr\bin\Debug\net7.0\testskr.dll
+C:\Users\Fotters\source\repos\testskr\bin\Debug\net7.0\testskr.pdb
+C:\Users\Fotters\source\repos\testskr\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Fotters\source\repos\testskr\obj\Debug\net7.0\testskr.csproj.AssemblyReference.cache
+C:\Users\Fotters\source\repos\testskr\obj\Debug\net7.0\testskr.csproj.CopyComplete
+C:\Users\Fotters\source\repos\testskr\obj\Debug\net7.0\testskr.dll
+C:\Users\Fotters\source\repos\testskr\obj\Debug\net7.0\refint\testskr.dll
+C:\Users\Fotters\source\repos\testskr\obj\Debug\net7.0\testskr.pdb
+C:\Users\Fotters\source\repos\testskr\obj\Debug\net7.0\testskr.genruntimeconfig.cache
+C:\Users\Fotters\source\repos\testskr\obj\Debug\net7.0\ref\testskr.dll
